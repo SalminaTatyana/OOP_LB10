@@ -1,0 +1,7 @@
+﻿  Altmer.cpp
+  Khajiit.cpp
+  LB10.cpp
+  Nord.cpp
+  Создание кода...
+C:\Users\user\Documents\ООП\LB10\LB10\LB10.cpp(34): warning C4715: CreatePerce: значение возвращается не при всех путях выполнения
+  LB10.vcxproj -> C:\Users\user\Documents\ООП\LB10\Debug\LB10.exe
